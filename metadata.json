@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix UNSCROLL",
+  "description": "Less scrolling. More living. An age-adaptive illustrated world that turns passive screen time into meaningful real-world action, skill building, original creation, and real human connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
